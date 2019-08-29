@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31561'
     url: http://www.gutenberg.org/2009/agents/31561
     wikipedia: http://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+covers:
+- cover_type: archival
+  image_path: 60145-h/images/cover.jpg
 creator:
   author:
     agent_name: Grant, Madison
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44795
     wikipedia: https://en.wikipedia.org/wiki/Madison_Grant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60145#The-Conquest-of-a-Continent-or-The-Expansion-of-Races-in-America
 gutenberg_issued: '2019-08-21'
 gutenberg_type: Text
 identifiers:
