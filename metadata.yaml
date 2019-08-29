@@ -1,0 +1,49 @@
+_repo: The-Conquest-of-a-Continent-or-The-Expansion-of-Races-in-America_60145
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Osborn, Henry Fairfield
+    alias: Osborn, Henry F. (Henry Fairfield)
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '31561'
+    url: http://www.gutenberg.org/2009/agents/31561
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+creator:
+  author:
+    agent_name: Grant, Madison
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '44795'
+    url: http://www.gutenberg.org/2009/agents/44795
+    wikipedia: https://en.wikipedia.org/wiki/Madison_Grant
+description: ''
+gutenberg_issued: '2019-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60145'
+  lccn: '33031646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- United States'
+- !lcsh 'Anglo-Saxon race'
+- !lcsh 'United States -- Emigration and immigration'
+- !lcsh 'Teutonic race'
+- !lcsh 'United States -- Ethnic relations'
+- !lcc 'E151'
+- !lcsh 'Immigrants -- United States'
+- !lcsh 'United States -- Civilization'
+- !lcsh 'Ethnology -- America'
+- GITenberg
+tableOfContents: Foreword -- The cradle of mankind -- The Nordic conquest of Europe
+  -- The Nordic settlement of America -- The Puritans in New England -- The gateways
+  to the West from New England and Virginia -- Virginia and her neighbors -- The Old
+  Northwest Territory -- The mountaineers conquer the Southwest -- From the Mississippi
+  to the Oregon -- The spoils of the Mexican War -- The alien invasion -- The transformation
+  of America -- Checking the alien invasion -- The legacy of slavery -- Our neighbors
+  on the North -- Our neighbors on the South -- The Nordic outlook.
+title: The Conquest of a Continent; or, The Expansion of Races in America
+url: http://www.gutenberg.org/ebooks/60145
